@@ -1,5 +1,5 @@
 # Mtools
-Just a repo for the old Mtools matlab files (neutron scattering)
+Just a repo for the old Mfit4 matlab files (neutron scattering)
 
 Authors
 
@@ -13,3 +13,4 @@ Des.McMorrow (des.mcmorrow@risoe.dk) alias DFM
 D.A. Tennant (d.tennant1@physics.oxford.ac.uk) alias DAT
 E.Farhi (farhi@ill.fr) alias EF
 
+Not that they work with these emails amymore!
